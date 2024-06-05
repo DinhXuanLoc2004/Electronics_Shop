@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo_App_Kotlin</string>
+    <string name="title_activity_favorite_screen">FavoriteScreen</string>
+    <string name="title_activity_alb4">alb4</string>
+</resources>
